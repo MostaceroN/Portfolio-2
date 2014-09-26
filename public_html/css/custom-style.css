@@ -1,10 +1,13 @@
 div{
+    padding: 30px;
+}
+/*
+div{
     border-style: solid;
     border-width: 5px;
     padding: 30px;
     border-color: green;
 }
-
 .container{
     border-color: blue;
 }
@@ -12,5 +15,20 @@ div{
     .row{
         border-color: red;
     }
+*/
+    .ricky {
+        color: black;
+        font-size: 25px;
+    }
     
-    
+    .noah {
+        color: white;
+        font-size: 25px;
+    }
+    .link69{
+        background-color: lightgrey;
+    }
+    .jesus{
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
